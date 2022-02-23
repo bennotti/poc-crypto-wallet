@@ -23,4 +23,4 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-See [LICENSE](https://github.com/bennotti/poc-pomodoro-cronometro/blob/main/LICENSE.md) for details.
+See [LICENSE](https://github.com/bennotti/poc-crypto-wallet/blob/main/LICENSE.md) for details.
